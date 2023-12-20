@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQEV-lLMyYiBSw/profile-displaybackgroundimage-shrink_350_1400/0/1697252265748?e=1708560000&v=beta&t=nY_OFa9TLWUws8M5WJU9BnbHVwc314IJnfvk6TzEz0c)
 <h1 align="center">Hi 👋, I'm Abinesh</h1>
 <h3 align="center">Python & Web Developer | Crafting Innovative Solutions for a Digital World 🚀</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **@infinityuniquers**
 
